@@ -1,13 +1,19 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+import { GlobalStyles } from "./Styles";
+import { BrowserRouter } from "react-router-dom";
+import { GlobalProvider } from "./GlobalStates";
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <GlobalStyles />
+      <GlobalProvider>
+        <App />
+      </GlobalProvider>
+    </BrowserRouter>
   </React.StrictMode>
 );
 

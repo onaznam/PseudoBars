@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "song": "Best Part",
+    "composer": "Daniel Caesar",
+    "artist": "Frank Ocean",
+    "audio": "/songs/BestPartFO.mp4",
+    "genre": "RNB",
+    "picture": "/profilePics/FO.jpg"
+  },
+  {
+    "id": 2,
+    "song": "Good Days",
+    "composer": "SZA",
+    "artist": "Frank Ocean",
+    "audio": "/songs/GoodDaysFO.mp3",
+    "genre": "RNB",
+    "picture": "/profilePics/FO.jpg"
+  },
+  {
+    "id": 3,
+    "song": "American Wedding",
+    "composer": "Eagles",
+    "artist": "Frank Ocean",
+    "audio": "/songs/AmericanWeddingFO.mp3",
+    "genre": "RNB",
+    "picture": "/profilePics/FO.jpg"
+  },
+  {
+    "id": 4,
+    "song": "Hold On Were Going Home",
+    "composer": "Drake",
+    "artist": "Frank Ocean",
+    "audio": "/songs/HoldOnWereGoingHomeFO.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/FO.jpg"
+  },
+  {
+    "id": 5,
+    "song": "Isnt She Lovely",
+    "composer": "Stevie Wonder",
+    "artist": "Kanye West",
+    "audio": "/songs/IsntSheLovelyKW.mp3",
+    "genre": "RNB",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 6,
+    "song": "At Your Best",
+    "composer": "Frank Ocean",
+    "artist": "Frank Ocean",
+    "audio": "/songs/AtYourBestFO.mp3",
+    "genre": "RNB",
+    "picture": "/profilePics/FO.jpg"
+  },
+  {
+    "id": 7,
+    "song": "We All Try",
+    "composer": "Frank Ocean",
+    "artist": "Frank Ocean",
+    "audio": "/songs/WeAllTryFO.mp3",
+    "genre": "RNB",
+    "picture": "/profilePics/FO.jpg"
+  },
+  {
+    "id": 8,
+    "song": "Cant Look In My Eyes",
+    "composer": "Kid Cudi",
+    "artist": "Kanye West",
+    "audio": "/songs/CantLookInMyEyesKW.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 9,
+    "song": "Wiseman",
+    "composer": "Frank Ocean",
+    "artist": "Frank Ocean",
+    "audio": "/songs/WisemanFO.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/FO.jpg"
+  },
+  {
+    "id": 10,
+    "song": "Bohemian Rhapsody",
+    "composer": "Queen",
+    "artist": "Frank Sinatra",
+    "audio": "/songs/BohemianRhapsodyFS.mp3",
+    "genre": "Rock",
+    "picture": "/profilePics/FS.jpg"
+  },
+  {
+    "id": 11,
+    "song": "Break Even",
+    "composer": "The Script",
+    "artist": "Kanye West",
+    "audio": "/songs/BreakEvenKW.mp3",
+    "genre": "Rock",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 12,
+    "song": "Careless Whisper",
+    "composer": "George Michael",
+    "artist": "Kanye West",
+    "audio": "/songs/CarelessWhisperKW.mp3",
+    "genre": "Rock",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 13,
+    "song": "City Of Stars",
+    "composer": "La La Land",
+    "artist": "Frank Sinatra",
+    "audio": "/songs/CityOfStarsFS.mp3",
+    "genre": "Jazz",
+    "picture": "/profilePics/FS.jpg"
+  },
+  {
+    "id": 14,
+    "song": "Fast Car",
+    "composer": "Tracy Chapman",
+    "artist": "Kanye West",
+    "audio": "/songs/FastCarKW.mp3",
+    "genre": "Rock",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 15,
+    "song": "Gangsters Paradise",
+    "composer": "Coolio",
+    "artist": "Frank Sinatra",
+    "audio": "/songs/GangstersParadiseFS.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/FS.jpg"
+  },
+  {
+    "id": 16,
+    "song": "Get Lucky",
+    "composer": "Daft Punk",
+    "artist": "Kanye West",
+    "audio": "/songs/GetLuckyKW.mp3",
+    "genre": "Hiphop",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 17,
+    "song": "Goosebumps",
+    "composer": "Travis Scott",
+    "artist": "Kanye West",
+    "audio": "/songs/GoosebumpsKW.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 18,
+    "song": "Happy Together",
+    "composer": "The Turtles",
+    "artist": "Frank Sinatra",
+    "audio": "/songs/HappyTogetherFS.mp3",
+    "genre": "Rock",
+    "picture": "/profilePics/FS.jpg"
+  },
+  {
+    "id": 19,
+    "song": "Hey Mama",
+    "composer": "Tupac",
+    "artist": "Tupac",
+    "audio": "/songs/HeyMama2P.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/2P.jpg"
+  },
+  {
+    "id": 20,
+    "song": "Hey There Delilah",
+    "composer": "Plain White T's",
+    "artist": "Kanye West",
+    "audio": "/songs/HeyThereDelilahKW.mp3",
+    "genre": "Alternative",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 21,
+    "song": "Higgs",
+    "composer": "Frank Ocean",
+    "artist": "Frank Ocean",
+    "audio": "/songs/HiggsFO.mp3",
+    "genre": "RNB",
+    "picture": "/profilePics/FO.jpg"
+  },
+  {
+    "id": 22,
+    "song": "I Dont Want To Set The World On Fire",
+    "composer": "The Ink Spot",
+    "artist": "Frank Sinatra",
+    "audio": "/songs/IDontWantToSetTheWorldOnFireFS.mp3",
+    "genre": "Oldie",
+    "picture": "/profilePics/FS.jpg"
+  },
+  {
+    "id": 23,
+    "song": "Lucid Dreams",
+    "composer": "Juice Wrld",
+    "artist": "Kanye West",
+    "audio": "/songs/LucidDreamsKW.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 24,
+    "song": "Mr Brightside",
+    "composer": "The Killers",
+    "artist": "Kanye West",
+    "audio": "/songs/MrBrightsideKW.mp3",
+    "genre": "Emo",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 25,
+    "song": "Never See Me Again",
+    "composer": "Kanye West",
+    "artist": "Kanye West",
+    "audio": "/songs/NeverSeeMeAgainKW.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 26,
+    "song": "N***as In Paris",
+    "composer": "Kanye West",
+    "artist": "Joe Biden , Donald Trump",
+    "audio": "/songs/NiggasInParisUSA.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 27,
+    "song": "One Dance",
+    "composer": "Drake",
+    "artist": "Kanye West",
+    "audio": "/songs/OneDanceKW.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 28,
+    "song": "Passionfruit",
+    "composer": "Drake",
+    "artist": "Kanye West",
+    "audio": "/songs/PassionfruitKW.mp3",
+    "genre": "Rap",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 29,
+    "song": "Skyfall",
+    "composer": "Adele",
+    "artist": "Freddie Mercury",
+    "audio": "/songs/SkyfallFM.mp3",
+    "genre": "Pop",
+    "picture": "/profilePics/FM.jpg"
+  },
+  {
+    "id": 30,
+    "song": "Somebody That I Used To Know",
+    "composer": "Gotye",
+    "artist": "Kanye West",
+    "audio": "/songs/UsedToKnowKW.mp3",
+    "genre": "Alternative",
+    "picture": "/profilePics/KW.jpg"
+  },
+  {
+    "id": 31,
+    "song": "Sway",
+    "composer": "Michael Buble",
+    "artist": "Frank Sinatra",
+    "audio": "/songs/SwayFS.mp3",
+    "genre": "Pop",
+    "picture": "/profilePics/FS.jpg"
+  },
+  {
+    "id": 32,
+    "song": "The Final Countdown",
+    "composer": "Europe",
+    "artist": "Freddie Mercury",
+    "audio": "/songs/TheFinalCountdownFM.mp3",
+    "genre": "Rock",
+    "picture": "/profilePics/FM.jpg"
+  },
+  {
+    "id": 33,
+    "song": "The Winner Takes It All",
+    "composer": "ABBA",
+    "artist": "Frank Sinatra",
+    "audio": "/songs/TheWinnerTakesItAllFS.mp3",
+    "genre": "Pop",
+    "picture": "/profilePics/FS.jpg"
+  },
+  {
+    "id": 34,
+    "song": "Wonderwall",
+    "composer": "Oasis",
+    "artist": "Kanye West",
+    "audio": "/songs/WonderwallKW.mp3",
+    "genre": "Alternative",
+    "picture": "/profilePics/KW.jpg"
+  }
+]
